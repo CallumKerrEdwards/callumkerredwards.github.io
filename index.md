@@ -2,52 +2,20 @@
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I am a software developer specialising in developing Testing and Quality Assurance 
+frameworks. With more than four years of software development experience and two drafted 
+novels under my belt, I am always looking for new and exciting opportunites.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## Languages and Frameworks
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* **[Java](https://www.java.com)** - [JUnit 5](https://junit.org/junit5/) / `Maven`
+* **[Selenium Webdriver](https://docs.seleniumhq.org)** - `Chromedriver`
+* **[Localstack](https://localstack.cloud)**
+* **[Go](https://golang.org)**
+* **[Docker](https://www.docker.com)**
 
-## Education
+## Open-source side projects
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
-
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+### [Localstack Go Wrapper](https://github.com/CallumKerrEdwards/localstack-go-wrapper) 
+A library for integration testing in Go against a local version of AWS endpoints by
+starting LocalStack in a docker container.
